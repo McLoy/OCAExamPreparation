@@ -4,9 +4,12 @@
 public class LocalVariables {
 
     public static void main(String[] args) {
-        int y = 10;
-        int x = 5;
-//        int reply = x+y;
-        System.out.println(x+y);
+
+        //initialization
+        int x = 10;
+        int y = 5;
+        int relay = x+y;
+        System.out.println(relay);
     }
+
 }
