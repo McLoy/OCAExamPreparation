@@ -10,6 +10,7 @@ public class LocalVariables {
         int y = 5;
         int relay = x+y;
         System.out.println(relay);
+        ch1.LocalVar.findAnswer(true);
     }
 
 }
