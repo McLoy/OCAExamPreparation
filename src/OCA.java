@@ -1,3 +1,5 @@
+import ch1.Mouse;
+
 /**
  * Created by User on 16.03.2016.
  */
@@ -35,6 +37,8 @@ public class OCA {
         ch1.LocalVar.findAnswer(true);
         eatIfHungry(true);
         eatMore(true, 20);
+
+
     }
 
 }
